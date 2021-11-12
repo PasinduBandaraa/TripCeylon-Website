@@ -4,6 +4,9 @@
 
 This website called TripCeylon.com is specially created for the tourists who visit SriLanka. This website provides two main services for tourists. Booking a hotel room is the first and main service. Tourists can search hotels by name and reserve rooms or see all the hotels and choose one hotel to stay in. Hotel owners can increase their businesses by adding their hotel details and prices with pictures so tourists can see them and reserve hotel rooms.Second service is tourists can read articles written about beautiful places in SriLanka from this web site. Local content writers can upload their articles and showcase their content writing skills while increasing tourism in SriLanka. Tourists can read those articles and visit the those places easily.
 
+![Home Page](https://github.com/PasinduBandaraa/TripCeylon-Website/blob/main/Screenshots/1.jpg)
+![Hotel Page](https://github.com/PasinduBandaraa/TripCeylon-Website/blob/main/Screenshots/2.jpg)
+![Article Page](https://github.com/PasinduBandaraa/TripCeylon-Website/blob/main/Screenshots/4.jpg)
 
 ************************************************************************************************************************************************************************
 
