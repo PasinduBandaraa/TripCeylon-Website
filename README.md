@@ -18,4 +18,4 @@ PHP files with the word 'connect' are the pages that connect pages with database
 Rest of the pages are the normal user pages which have a connection with the database. 
 
 
-###Thank You
+### Thank You
