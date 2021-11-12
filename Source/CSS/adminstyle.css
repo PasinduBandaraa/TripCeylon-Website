@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    color: white;
+}
+
+div {
+    margin: 50px;
+}
+
+button {
+    font-size: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    width: 300px;
+    height: 100px;
+    border: none;
+  
+
+  }
+  
+button:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
